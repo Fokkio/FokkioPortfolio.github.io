@@ -4,3 +4,7 @@
 @tailwind components;
 @tailwind utilities;
 
+.font-8bit {
+    font-family: '8BIT WONDER', sans-serif;                                   
+}
+
