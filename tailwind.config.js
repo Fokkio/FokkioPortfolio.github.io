@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        '8bit': ['8bit', 'sans-serif']
+        '8bit': ['8bit', 'sans-serif'],
+        'Anuphan': ['Anuphan', 'sans-serif']
       },
     },
     plugins: [],

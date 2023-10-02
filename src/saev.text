@@ -1,0 +1,28 @@
+ <div class="container mx-auto flex flex-wrap flex-col md:items-center md:flex-row">
+            <div class="flex flex-col md:w-1/2 w-full pl-4 md:pl-0">
+                <div class="flex text-center justify-center flex-row">
+                    <h1 class="text-5xl text-white self-center animate-pulse font-bold font-8bit">About Me</h1>
+                </div>
+                <div class="py-8 text-2xl">
+                    <h1 class="text-white py-3">เเผนการเรียน</h1>
+                    <p class="text-gray-500 py-3">วิทยาศาสตร์-คณิตศาสตร์</p>
+                    <h1 class="text-white py-3">วันเกิด</h1>
+                    <p class="text-gray-500 py-3">6 ตุลาคม 2005</p>
+                    <h1 class="text-white py-3">เบอร์มือถือ</h1>
+                    <p class="text-gray-500 py-3">0829862752</p>
+                    <h1 class="text-white py-3">งานอดิเรก</h1>
+                    <p class="text-gray-500 py-3">เล่นเกม ฟังเพลง ติดตามเกี่ยวข่าวกับเทคโนโลยี เขียนcodeในเวลาว่าง</p>
+                </div>
+                <div class="flex text-center justify-center flex-row">
+                    <h1 class="text-5xl text-white self-center animate-pulse font-bold font-8bit">Contact</h1>
+                </div>
+                <div class="py-8 text-2xl">
+                    <h1 class="text-white py-3">Facebook</h1>
+                    <p class="text-gray-500 py-3">Foke Watcharit</p>
+                    <h1 class="text-white py-3">Line: ID</h1>
+                    <p class="text-gray-500 py-3">foke47230</p>
+                    <h1 class="text-white py-3">Email</h1>
+                    <p class="text-gray-500 py-3">fok04052@gmail.com</p>
+                </div>
+            </div>
+        </div>
